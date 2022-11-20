@@ -1,5 +1,4 @@
 from cryptography.fernet import Fernet
-import os
 
 #This version is a test to see if its possible to
 #encrypt a file using multiple keys v00.2 will be decrypting using the keyfiles generated within this script
